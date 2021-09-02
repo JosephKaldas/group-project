@@ -1,6 +1,5 @@
 
 # Class Roster Project
-Yolanda's Fork
 ## Instructors:
 Lead: Luis Hernandez
 AI: Jonathon Hinchley
@@ -22,3 +21,6 @@ Contributed to by Jane Doe, Code Ninja
 Contributed to by German Almonte
 
 Contributed to by Michelle Olivera
+
+##Temp Guest
+Yolanda's Fork
